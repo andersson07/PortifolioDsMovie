@@ -1,4 +1,4 @@
-package com.devportipolio.dsmovie;
+package com.devportifolio.dsmovie;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

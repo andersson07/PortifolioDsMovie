@@ -1,4 +1,4 @@
-package com.devportipolio.dsmovie;
+package com.devportifolio.dsmovie;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
