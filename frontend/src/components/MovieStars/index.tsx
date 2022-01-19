@@ -8,7 +8,7 @@ type Props = {
     score: number;
 }
 
-type starProps = {
+type StarProps = {
     fill: number;
 }
 
@@ -33,7 +33,7 @@ function getFills(score: number) {
     return fills;
   }
 
-function Star({ fill } : starProps) {
+function Star({ fill } : StarProps) {
     if (fill === 0){
         return <StarEmpty />
     }
